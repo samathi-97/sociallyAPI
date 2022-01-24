@@ -6,7 +6,7 @@ const config: MysqlConnectionOptions = {
     host: 'localhost',
     port: 3306,
     username: 'root',
-    password: "Ak@172855",
+    password: "",
     database: 'socially',
     entities: [Campaign],
     synchronize: true
